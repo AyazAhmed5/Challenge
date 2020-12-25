@@ -1,0 +1,154 @@
+body {
+  font-family: 'Spartan', sans-serif;
+  font-size: 18px;
+}
+
+h4 {
+  color: #502050;
+  display: inline-block;
+  margin-left: 5px;
+}
+h1{
+  font-weight: 900;
+}
+
+.h1 {
+  height: 300px;
+  width: 300px;
+  position: absolute;
+  top: 18%;
+  left: 12%;
+  color: #502050;
+  font-weight: bolder;
+}
+
+.Bar {
+  padding-left: 30px;
+  border-radius: 10px;
+  background-color: #f7f2f7;
+  position: absolute;
+  top: 20%;
+  right: 400px;
+  font-size: 15px;
+  width: 25%;
+}
+
+.Bar-2 {
+  padding-left: 30px;
+  border-radius: 10px;
+  background-color: #f7f2f7;
+  position: absolute;
+  top: 30%;
+  font-size: 15px;
+  width: 25%;
+  right: 23%;
+}
+
+.Bar-3 {
+  padding-left: 30px;
+  border-radius: 10px;
+  background-color: #f7f2f7;
+  position: absolute;
+  top: 40%;
+  font-size: 15px;
+  width: 25%;
+  right: 20%;
+}
+
+.paragraphs {
+  color: #d5c3d5;
+  width: 380px;
+font-weight: normal;
+  font-size: 15px;
+}
+
+.Reviews-1 {
+  font-size: 12px;
+  padding: 25px;
+  border-radius: 10px;
+  background-color: #502050;
+  position: absolute;
+  left: 180px;
+  bottom: 110px;
+  height: 150px;
+  width: 250px;
+}
+
+.Reviews-2 {
+  font-size: 12px;
+padding: 25px;
+  margin-left: 35px;
+  border-radius: 10px;
+  background-color: #502050;
+  position: absolute;
+  left: 480px;
+  bottom: 95px;
+  height: 150px;
+  width: 270px;
+}
+
+.Reviews-3 {
+  font-size: 12px;
+  padding: 25px;
+  margin-left: 85px;
+  border-radius: 10px;
+  background-color: #502050;
+  position: absolute;
+  left: 780px;
+  bottom: 80px;
+  height: 150px;
+  width: 290px;
+}
+.reviews {
+  clear: left;
+  padding: 18px;
+  color: #ffffff;
+  text-align:justify;
+  font-style: normal;
+}
+
+.reviewss {
+  margin: 0;
+  font-size: 13px;
+  font-weight: normal;
+  color: #ffffff;
+}
+.sub {
+  margin:0;
+  font-size: 13px;
+  font-weight: normal;
+  color: #ee68a4;
+}
+
+.img-1 {
+  height: 30px;
+  width: 30px;
+  margin-right: 25px;
+  float: left;
+}
+
+.img-2 {
+  height: 30px;
+  width: 30px;
+    margin-right: 25px;
+  float: left;
+}
+
+.img-3 {
+  height: 30px;
+  width: 30px;
+    margin-right: 25px;
+  float: left;
+}
+
+.svg-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.svg-2 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
